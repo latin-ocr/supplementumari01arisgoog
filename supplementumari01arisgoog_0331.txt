@@ -1,0 +1,21 @@
+SIGLA
+
+B = codex Barberinus
+
+il = codex Herleienus
+
+L = codex Laurentianus
+M = codex Monacensis
+
+P ιε codex Parisinus 1954
+Q = codex Parisinus 2613
+V = codex Venetus
+
+b = editio Besileensis
+
+w = editio Wimmeri
+
+Numeri 13 adpositi (ΕΙ, ΙιῚ) pristinum ec correccam codicum scripturum indicant.
+
+ 
+
